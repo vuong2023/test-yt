@@ -15,12 +15,12 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [YouTube-Extended-New-devices]
 app-name = "YouTube"
-patches-source = "vuong2023/tes"
+patches-source = "vuong2023/testpatch"
 integrations-source = "vuong2023/inter"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
-excluded-patches = "custom-branding-name custom-branding-youtube-name custom-branding-icon-mmt custom-branding-icon-revancify-red custom-branding-icon-revancify-blue"
-included-patches = "materialyou disable-landscape-mode hide-double-tap-overlay-filter enable-debug-logging"
+excluded-patches = "custom-branding-youtube-name custom-branding-icon-revancify-blue"
+included-patches = "add-splash-animation disable-landscape-mode enable-debug-logging force-hide-player-button-background force-premium-heading materialyou optimize-resource"
 version = "18.36.39"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
