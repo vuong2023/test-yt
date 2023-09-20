@@ -21,6 +21,7 @@ rv-brand = "ReVanced Extended"
 build-mode = "module"
 excluded-patches = "custom-branding-youtube-name custom-branding-icon-revancify-blue custom-package-name microg-support"
 included-patches = "add-splash-animation disable-landscape-mode enable-debug-logging force-hide-player-button-background force-premium-heading hide-double-tap-overlay-filter optimize-resource"
+version = "18.36.39"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [YouTube-Extended-Old-Devices]
